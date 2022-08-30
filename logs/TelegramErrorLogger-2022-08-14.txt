@@ -1,0 +1,722 @@
+============[Date]============
+[ 2022-08-14 11:56:49  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758831
+ref.message.message_id= 153
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478209
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(42): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(11): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 11:59:54  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758835
+ref.message.message_id= 160
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478393
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(48): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(11): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:00:38  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758837
+ref.message.message_id= 163
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478438
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(48): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(11): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:45  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758840
+ref.message.message_id= 169
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478829
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:46  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758841
+ref.message.message_id= 170
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478837
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:47  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758842
+ref.message.message_id= 171
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478861
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:48  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758843
+ref.message.message_id= 172
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660478882
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:50  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758844
+ref.message.message_id= 173
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479011
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:11:51  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758845
+ref.message.message_id= 174
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479093
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(56): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:13:18  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758848
+ref.message.message_id= 185
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479197
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(53): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:15:40  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758851
+ref.message.message_id= 191
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479339
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(51): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:17:19  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758854
+ref.message.message_id= 195
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479439
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(51): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:17:50  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758858
+ref.message.message_id= 202
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479469
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(51): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:19:43  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758862
+ref.message.message_id= 209
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479582
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(44): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 12:21:56  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758866
+ref.message.message_id= 216
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660479716
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(44): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 17:24:00  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758868
+ref.message.message_id= 220
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660497839
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(54): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 17:25:13  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758872
+ref.message.message_id= 227
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660497912
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(54): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 17:26:38  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758877
+ref.message.message_id= 236
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660497997
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(54): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(12): showStart()
+#5 {main}
+
+============[Date]============
+[ 2022-08-14 17:36:24  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 505758881
+ref.message.message_id= 243
+ref.message.from.id= 696678484
+ref.message.from.is_bot= false
+ref.message.from.first_name= Парвозбек
+ref.message.from.username= parvoz_wd
+ref.message.from.language_code= ru
+ref.message.chat.id= 696678484
+ref.message.chat.first_name= Парвозбек
+ref.message.chat.username= parvoz_wd
+ref.message.chat.type= private
+ref.message.date= 1660498583
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /storage/ssd2/769/18635769/public_html/Telegram.php(3228): TelegramErrorLogger::log(Array, Array)
+#1 /storage/ssd2/769/18635769/public_html/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /storage/ssd2/769/18635769/public_html/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /storage/ssd2/769/18635769/public_html/bot.php(58): Telegram->sendMessage(Array)
+#4 /storage/ssd2/769/18635769/public_html/bot.php(13): showStart()
+#5 {main}
+
